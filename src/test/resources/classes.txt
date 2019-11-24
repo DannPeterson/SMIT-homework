@@ -1,0 +1,13 @@
+a.b.FooBarBaz
+c.d.FooBar
+
+something.WishMaker
+something.MindReader
+
+TelephoneOperator
+ScubaArgentineOperator
+       YoureLeavingUsHere
+   YouveComeToThisPoint
+YourEyesAreSpinningInTheirSockets
+
+
