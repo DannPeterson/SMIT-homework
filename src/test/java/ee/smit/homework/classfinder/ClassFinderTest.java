@@ -58,8 +58,8 @@ public class ClassFinderTest {
 	@Test
 	public void givenNoSpaceCamelcasePattern_whenGetMatches_thenGetMatches() throws URISyntaxException {
 		List<String> expected = new ArrayList<>();
-		expected.add("a.b.FooBarBaz");
 		expected.add("c.d.FooBar");
+		expected.add("a.b.FooBarBaz");
 		
 		URI fileURI = classloader.getResource("classes.txt").toURI();
 		String fileName = Paths.get(fileURI).toString();
